@@ -1,0 +1,109 @@
+html {
+  background-color: #010202;
+}
+.updates-container {
+  background-color: #010202;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.update {
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #ebebeb;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: aliceblue;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+h4 {
+  color: white;
+}
+
+p {
+  color: #1000ff;
+}
+
+.date {
+  color: #02ff0a;
+  font-size: 12px;
+}
+
+
+.midia {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer .copy-symbol {
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+footer {
+  margin: 0;
+  padding: o;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+}
+
+.VSG {
+  color: #fff;
+}
+
+.origem {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  align-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+
+
+.menu ul {
+  list-style: none;
+  display: flex;
+}
+
+.menu li {
+  margin-right: 20px;
+}
+
+.menu li:last-child {
+  margin-right: 0;
+}
+
+.menu a {
+  margin: 25px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+}
